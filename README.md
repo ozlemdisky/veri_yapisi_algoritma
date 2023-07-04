@@ -40,6 +40,9 @@ Big-O: 2^x=n = O(nlogn)
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
+Rootu belirliyoruz.Daha sonra sayı dizisindeki tüm sayıları sırayla kontrol edip büyük olan sayıları rootun soluna, küçükleri sağına ekliyoruz.
+
+
 root:3
 
          3
